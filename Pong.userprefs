@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{51D1E3E2-5E00-E55E-B393-7FA7E1ED8472}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Ball.cs" Line="26" Column="38" />
+      <File FileName="Assets/Scripts/MoveRacket.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buttons.cs" Line="28" Column="28" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="5" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pong PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
